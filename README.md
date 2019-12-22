@@ -4,3 +4,5 @@
 (some-palindrome) 	is the program checks whether a string is a palindrome.
 
 (some-rabbits)		is the program for the problem of rabbit breeding.
+
+(some-stat)		is the program for fetching a .CSV file.
